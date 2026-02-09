@@ -95,6 +95,18 @@ Ferramenta em Excel para centralizar e organizar informações essenciais do IRP
 
 ---
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+![Streak](https://streak-stats.demolab.com?user=Ro-Oliveira89&theme=blueberry&hide_border=true)
+
+</div>
+
+---
+
 ## 📌 Objetivo
 
 Busco oportunidades para gerar impacto com **dados, BI e automação**, contribuindo com análises orientadas a resultado, eficiência operacional e decisões estratégicas.
