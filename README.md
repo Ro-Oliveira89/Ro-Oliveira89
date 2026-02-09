@@ -5,26 +5,26 @@
   São Paulo, Brasil • Pós em IA & Ciência de Dados (Anhembi Morumbi)
 </p>
 
-<!-- ÍCONES DE CONTATO (FUNCIONANDO) -->
+<!-- ÍCONES DE CONTATO FUNCIONANDO -->
 <p align="center">
 
   <!-- Instagram -->
-  https://www.instagram.com/rodrigo.oliveira.af
-    https://cdn-icons-png.flaticon.com/512/174/174855.png
+  <a href="https://www.instagram.com/rodrigo.oliveira.af" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <!-- Email -->
-  mailto:roliveira10@outlook.com
-    https://cdn-icons-png.flaticon.com/512/561/561127.png
+  <a href="mailto:roliveira10@outlook.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" />
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <!-- LinkedIn -->
-  https://www.linkedin.com/in/rodrigooliveira-565666143
-    https://cdn-icons-png.flaticon.com/512/174/174857.png
+  <a href="https://www.linkedin.com/in/rodrigooliveira-565666143" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
   </a>
 
 </p>
@@ -35,15 +35,9 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**.
 
-Atuo com:  
-- **Análise de Dados**  
-- **Business Intelligence**  
-- **KPIs**  
-- **ETL e Data Cleaning**  
-- **Automação de Processos**  
-- **Power BI, SQL, Python e Excel Avançado**
+Atuo com **Análise de Dados, BI, KPIs, ETL, automação de processos e visualização**, conectando experiência logística e operacional com uma visão analítica orientada a resultados.
 
-Minha vivência em logística e operações me permite conectar dados, eficiência e tomada de decisão de forma prática e estratégica.
+Transformo dados em **insights estratégicos**, apoio decisões data‑driven e busco elevar eficiência utilizando **Power BI, SQL, Python e Excel Avançado**.
 
 ---
 
@@ -51,8 +45,8 @@ Minha vivência em logística e operações me permite conectar dados, eficiênc
 
 - 📊 Dashboards e KPIs (Power BI)  
 - 🔁 Automação (Excel / Python)  
-- 🧼 Tratamento e preparação de dados  
-- 🧱 Modelagem de dados  
+- 🧼 Data Cleaning  
+- 🧱 Modelagem e estruturação de dados  
 - 📦 Indicadores logísticos e operacionais  
 - ✨ Storytelling com dados  
 
@@ -60,17 +54,17 @@ Minha vivência em logística e operações me permite conectar dados, eficiênc
 
 ## 🛠️ Tech Stack
 
-**BI:** Power BI, Power Query, DAX  
+**BI & Visualização:** Power BI, Power Query, DAX  
 **Linguagens:** Python (Pandas), SQL  
 **Ferramentas:** Excel Avançado, Git/GitHub  
-**Processos:** ETL, Automação, Data Cleaning, Análise Exploratória  
+**Processos:** ETL, Automação, Análise Exploratória  
 
 ---
 
 ## ⭐ Projetos em Destaque
 
 ### 💰 app_money — Controle e simulação de investimentos (Excel)
-Planilha para acompanhar aportes, calcular rentabilidade e visualizar a evolução financeira.  
+Planilha para controle de aportes, cálculo de rentabilidade e visualização da evolução financeira.  
 🔗 **Repositório:** https://github.com/Ro-Oliveira89/app_money
 
 ---
@@ -92,10 +86,10 @@ Ferramenta em Excel para organizar dados essenciais da declaração de IRPF.
 **BEST LOG — Analista de Logística (2025–2026)**  
 - Estruturação e análise de dados  
 - Criação de KPIs e automação  
-- Relatórios analíticos e logística reversa  
+- Relatórios estratégicos e logística reversa  
 
 **Grupo Kallas — Assistente Administrativo (2024)**  
-- Controle de dados, indicadores e automação  
+- Indicadores, planilhas e automação  
 
 **Armazém Peter Paiva — Auxiliar de Logística Pleno (2020–2024)**  
 - Indicadores, estoque, demanda e relatórios  
