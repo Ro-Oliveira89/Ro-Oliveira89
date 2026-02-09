@@ -5,112 +5,91 @@
   São Paulo, Brasil • Pós em IA & Ciência de Dados (Anhembi Morumbi)
 </p>
 
-<!-- ÍCONES DE CONTATO FUNCIONANDO -->
 <p align="center">
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/rodrigo.oliveira.af" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" />
+  <a href="https://www.instagram.com/rodrigo.oliveira.af?igsh=MWxoazZrd2F3ZXNlMg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-rodrigo.oliveira.af-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Email -->
   <a href="mailto:roliveira10@outlook.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" />
+    <img src="https://img.shields.io/badge/Email-roliveira10%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rodrigooliveira-565666143" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**. Atuo com **Análise de Dados**, **Business Intelligence**, **KPIs**, **automação de processos** e **visualização de dados**, conectando experiência em **logística/operações** com uma visão analítica orientada a resultados.
 
-Atuo com **Análise de Dados, BI, KPIs, ETL, automação de processos e visualização**, conectando experiência logística e operacional com uma visão analítica orientada a resultados.
-
-Transformo dados em **insights estratégicos**, apoio decisões data‑driven e busco elevar eficiência utilizando **Power BI, SQL, Python e Excel Avançado**.
+Tenho foco em transformar dados operacionais em **insights estratégicos**, automatizar rotinas e apoiar decisões **data‑driven** usando **Power BI, SQL e Python**.
 
 ---
 
-## 🧩 O que eu faço bem
+## 🧩 Principais competências
 
-- 📊 Dashboards e KPIs (Power BI)  
-- 🔁 Automação (Excel / Python)  
-- 🧼 Data Cleaning  
-- 🧱 Modelagem e estruturação de dados  
-- 📦 Indicadores logísticos e operacionais  
-- ✨ Storytelling com dados  
+- 📊 **Dashboards & KPIs** (Power BI)
+- 🧱 **Modelagem e estruturação de dados**
+- 🔁 **Automação de rotinas** (Excel avançado / Python)
+- 🧼 **Data Cleaning** e preparação para BI/ETL
+- 📦 **Indicadores logísticos e operacionais**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**BI & Visualização:** Power BI, Power Query, DAX  
-**Linguagens:** Python (Pandas), SQL  
+**BI & Visualização:** Power BI, Power Query, (DAX se aplicável)  
+**Dados:** SQL, ETL  
+**Linguagens:** Python  
 **Ferramentas:** Excel Avançado, Git/GitHub  
-**Processos:** ETL, Automação, Análise Exploratória  
 
 ---
 
-## ⭐ Projetos em Destaque
+## ⭐ Projetos em destaque
 
 ### 💰 app_money — Controle e simulação de investimentos (Excel)
-Planilha para controle de aportes, cálculo de rentabilidade e visualização da evolução financeira.  
-🔗 **Repositório:** https://github.com/Ro-Oliveira89/app_money
+Planilha para acompanhar aportes, calcular rentabilidade e visualizar evolução dos ganhos.  
+🔗 Repositório: https://github.com/Ro-Oliveira89/app_money
 
 ---
 
 ### 🎮 xbox-gamepass-dashboard — Dashboard analítico (BI)
-Dashboard com métricas, KPIs e visualização estratégica.  
-🔗 **Repositório:** https://github.com/Ro-Oliveira89/xbox-gamepass-dashboard
+Dashboard para análise e visualização de dados com foco em métricas e KPIs.  
+🔗 Repositório: https://github.com/Ro-Oliveira89/xbox-gamepass-dashboard
 
 ---
 
-### 🧾 excel-ir-organizer — Organizador de Informações para IR (Excel)
-Ferramenta em Excel para organizar dados essenciais da declaração de IRPF.  
-🔗 **Repositório:** https://github.com/Ro-Oliveira89/excel-ir-organizer
+### 🧾 excel-ir-organizer — Organizador de informações para IR (Excel)
+Ferramenta em Excel para centralizar e organizar informações essenciais do IRPF.  
+🔗 Repositório: https://github.com/Ro-Oliveira89/excel-ir-organizer
 
 ---
 
 ## 💼 Experiência (resumo)
 
 **BEST LOG — Analista de Logística (2025–2026)**  
-- Estruturação e análise de dados  
-- Criação de KPIs e automação  
-- Relatórios estratégicos e logística reversa  
+- Estruturação de dados operacionais e relatórios analíticos  
+- Monitoramento e análise de KPIs (coletas, embarques e entregas)  
+- Automação e melhoria de eficiência em rotinas logísticas  
 
-**Grupo Kallas — Assistente Administrativo (2024)**  
-- Indicadores, planilhas e automação  
-
-**Armazém Peter Paiva — Auxiliar de Logística Pleno (2020–2024)**  
-- Indicadores, estoque, demanda e relatórios  
+**Operações / E‑commerce (2020–2024)**  
+- Indicadores de estoque, demanda e performance  
+- Relatórios operacionais para suporte à gestão  
 
 ---
 
 ## 🎓 Formação
 
-- Pós‑graduação — **Inteligência Artificial & Ciência de Dados**  
-- CST — **Análise e Desenvolvimento de Sistemas**  
+- Pós‑graduação — **Inteligência Artificial & Ciência de Dados** (Anhembi Morumbi)  
+- CST — **Análise e Desenvolvimento de Sistemas** (Anhembi Morumbi)
 
 ---
 
-## 📫 Contato
+## 📌 Objetivo
 
-📧 **E-mail:** roliveira10@outlook.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/rodrigooliveira-565666143  
-📍 **São Paulo – Brasil**  
-
----
+Busco oportunidades para gerar impacto com **dados, BI e automação**, contribuindo com análises orientadas a resultado, eficiência operacional e decisões estratégicas.
 
 <p align="center">
-  <i>Busco oportunidades onde eu possa gerar impacto com dados, BI e automação.</i>
+  <i>Obrigado por visitar meu perfil! ✨</i>
 </p>
