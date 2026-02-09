@@ -5,7 +5,7 @@
   São Paulo, Brasil • Pós em IA & Ciência de Dados (Anhembi Morumbi)
 </p>
 
-<!-- ÍCONES DE CONTATO -->
+<!-- ÍCONES DE CONTATO (FUNCIONANDO) -->
 <p align="center">
 
   <!-- Instagram -->
@@ -33,70 +33,79 @@
 
 ## 🚀 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**. Atuo com **Análise de Dados, Business Intelligence, KPIs, ETL, automação de processos e visualização de dados**, conectando experiência logística e operacional com uma visão analítica orientada a resultados.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**.
 
-Transformo dados em **insights estratégicos**, apoio decisões data‑driven e busco elevar eficiência utilizando **Power BI, SQL, Python e Excel Avançado**.
+Atuo com:  
+- **Análise de Dados**  
+- **Business Intelligence**  
+- **KPIs**  
+- **ETL e Data Cleaning**  
+- **Automação de Processos**  
+- **Power BI, SQL, Python e Excel Avançado**
+
+Minha vivência em logística e operações me permite conectar dados, eficiência e tomada de decisão de forma prática e estratégica.
 
 ---
 
 ## 🧩 O que eu faço bem
 
 - 📊 Dashboards e KPIs (Power BI)  
-- 🔁 Automação de rotinas (Excel / Python)  
-- 🧼 Limpeza e preparação de dados  
-- 🧱 Modelagem e estruturação de dados  
-- 📦 Análise logística e operacional  
+- 🔁 Automação (Excel / Python)  
+- 🧼 Tratamento e preparação de dados  
+- 🧱 Modelagem de dados  
+- 📦 Indicadores logísticos e operacionais  
 - ✨ Storytelling com dados  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**BI & Visualização:** Power BI, Power Query, DAX  
+**BI:** Power BI, Power Query, DAX  
 **Linguagens:** Python (Pandas), SQL  
 **Ferramentas:** Excel Avançado, Git/GitHub  
-**Processos:** ETL, Indicadores, Automatização, Análise preditiva (em desenvolvimento)  
+**Processos:** ETL, Automação, Data Cleaning, Análise Exploratória  
 
 ---
 
 ## ⭐ Projetos em Destaque
 
 ### 💰 app_money — Controle e simulação de investimentos (Excel)
-Planilha para controle de aportes, cálculo de rentabilidade e visualização da evolução do patrimônio.  
-🔗 https://github.com/Ro-Oliveira89/app_money
+Planilha para acompanhar aportes, calcular rentabilidade e visualizar a evolução financeira.  
+🔗 **Repositório:** https://github.com/Ro-Oliveira89/app_money
 
 ---
 
 ### 🎮 xbox-gamepass-dashboard — Dashboard analítico (BI)
-Dashboard com métricas, KPIs e visualização para suporte à análise.  
-🔗 https://github.com/Ro-Oliveira89/xbox-gamepass-dashboard
+Dashboard com métricas, KPIs e visualização estratégica.  
+🔗 **Repositório:** https://github.com/Ro-Oliveira89/xbox-gamepass-dashboard
 
 ---
 
 ### 🧾 excel-ir-organizer — Organizador de Informações para IR (Excel)
-Ferramenta em Excel para centralizar dados essenciais da declaração de Imposto de Renda.  
-🔗 https://github.com/Ro-Oliveira89/excel-ir-organizer
+Ferramenta em Excel para organizar dados essenciais da declaração de IRPF.  
+🔗 **Repositório:** https://github.com/Ro-Oliveira89/excel-ir-organizer
 
 ---
 
 ## 💼 Experiência (resumo)
 
 **BEST LOG — Analista de Logística (2025–2026)**  
-- Estruturação e análise de dados operacionais  
-- KPIs, automação e logística reversa  
+- Estruturação e análise de dados  
+- Criação de KPIs e automação  
+- Relatórios analíticos e logística reversa  
 
 **Grupo Kallas — Assistente Administrativo (2024)**  
-- Indicadores, planilhas e automação  
+- Controle de dados, indicadores e automação  
 
 **Armazém Peter Paiva — Auxiliar de Logística Pleno (2020–2024)**  
-- Indicadores de estoque, demanda e performance  
+- Indicadores, estoque, demanda e relatórios  
 
 ---
 
 ## 🎓 Formação
 
-- Pós-graduação: **Inteligência Artificial & Ciência de Dados**  
-- CST: **Análise e Desenvolvimento de Sistemas**  
+- Pós‑graduação — **Inteligência Artificial & Ciência de Dados**  
+- CST — **Análise e Desenvolvimento de Sistemas**  
 
 ---
 
@@ -104,7 +113,7 @@ Ferramenta em Excel para centralizar dados essenciais da declaração de Imposto
 
 📧 **E-mail:** roliveira10@outlook.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/rodrigooliveira-565666143  
-📍 **Local:** São Paulo – Brasil  
+📍 **São Paulo – Brasil**  
 
 ---
 
