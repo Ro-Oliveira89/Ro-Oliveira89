@@ -27,7 +27,7 @@ Tenho foco em transformar dados operacionais em **insights estratégicos**, auto
 
 ---
 
-## 🧩 Principais competências
+## 🧩 Principais habilidades
 
 - 📊 **Dashboards & KPIs** (Power BI)
 - 🧱 **Modelagem e estruturação de dados**
@@ -68,21 +68,30 @@ Ferramenta em Excel para centralizar e organizar informações essenciais do IRP
 
 ## 💼 Experiência (resumo)
 
-**BEST LOG — Analista de Logística (2025–2026)**  
-- Estruturação de dados operacionais e relatórios analíticos  
-- Monitoramento e análise de KPIs (coletas, embarques e entregas)  
-- Automação e melhoria de eficiência em rotinas logísticas  
 
-**Operações / E‑commerce (2020–2024)**  
-- Indicadores de estoque, demanda e performance  
+**BESTLOG — Analista de Logística (2025–2026)**  
+- Estruturação e análise de dados operacionais  
+- Monitoramento de KPIs (coletas, entregas, embarques)  
+- Automação de processos e melhoria contínua  
+
+**GRUPO KALLAS — Assistente Administrativo (2024)**  
+- Indicadores, controle de planilhas e relatórios gerenciais  
+- Automação de rotinas e apoio estratégico à diretoria  
+
+**LOJA VIRTUAL PETER PAIVA — Auxiliar de Logística Pleno (2020–2024)**  
+- Atuação em e‑commerce com forte uso de dados operacionais  
+- Monitoramento de estoque e análise de demanda  
+- Controle de inventário e indicadores logísticos  
 - Relatórios operacionais para suporte à gestão  
+- Atendimento focado na experiência do cliente
+  
 
 ---
 
 ## 🎓 Formação
 
 - Pós‑graduação — **Inteligência Artificial & Ciência de Dados** (Anhembi Morumbi)  
-- CST — **Análise e Desenvolvimento de Sistemas** (Anhembi Morumbi)
+- Graduação Tecnólogo — **Análise e Desenvolvimento de Sistemas** (Anhembi Morumbi)
 
 ---
 
