@@ -12,7 +12,7 @@
   <a href="mailto:roliveira10@outlook.com">
     <img src="https://img.shields.io/badge/Email-roliveira10%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="[www.linkedin.com/in/rodrigo-oliveira-565666143](https://www.linkedin.com/in/rodrigo-oliveira-565666143/#:~:text=www.linkedin.com/in/rodrigo%2Doliveira%2D565666143)" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-oliveira-565666143" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
