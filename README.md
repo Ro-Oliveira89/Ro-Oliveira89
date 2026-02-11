@@ -54,9 +54,9 @@ Planilha para acompanhar aportes, calcular rentabilidade e visualizar evolução
 
 ---
 
-### 🎮 xbox-gamepass-dashboard — Dashboard analítico (BI)
+### 🎮 xbox-gamepass-dashboard-annual — Dashboard analítico (BI)
 Dashboard para análise e visualização de dados com foco em métricas e KPIs.  
-🔗 Repositório: https://github.com/Ro-Oliveira89/xbox-gamepass-dashboard
+🔗 Repositório: https://github.com/Ro-Oliveira89/xbox-gamepass-dashboard-annual.git
 
 ---
 
