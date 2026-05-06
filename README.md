@@ -1,7 +1,7 @@
 <h1 align="center">Rodrigo Oliveira 👋</h1>
 
 <p align="center">
-  <b>Analista de Dados • Power BI • SQL • Python • ETL • KPIs • Dashboards</b><br/>
+  <b>Data Analyst Jr • BI • Power BI • SQL • Python • KPIs • Dashboards</b><br/>
   São Paulo, Brasil • Pós em IA & Ciência de Dados (Anhembi Morumbi)
 </p>
 
@@ -21,70 +21,82 @@
 
 ## 🚀 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**. Atuo com **Análise de Dados**, **Business Intelligence**, **KPIs**, **automação de processos** e **visualização de dados**, conectando experiência em **logística/operações** com uma visão analítica orientada a resultados.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**. Atuo com **Análise de Dados e Business Intelligence**, focado em transformar dados operacionais em **insights acionáveis para tomada de decisão**.
 
-Tenho foco em transformar dados operacionais em **insights estratégicos**, automatizar rotinas e apoiar decisões **data‑driven** usando **Power BI, SQL e Python**.
+Possuo experiência prática com **Power BI, SQL e Python**, trabalhando com **KPIs, dashboards gerenciais, automação de rotinas e estruturação de dados para análise**. Tenho forte vivência em **logística e operações**, o que me permite conectar dados ao contexto real do negócio.
+
+Busco oportunidades como **Data Analyst Jr / BI Analyst**, onde possa aplicar fundamentos de dados, evoluir tecnicamente e gerar impacto por meio de decisões orientadas por dados.
 
 ---
 
 ## 🧩 Principais habilidades
 
-- 📊 **Dashboards & KPIs** (Power BI)
-- 🧱 **Modelagem e estruturação de dados**
-- 🔁 **Automação de rotinas** (Excel avançado / Python)
-- 🧼 **Data Cleaning** e preparação para BI/ETL
+- 📊 **Business Intelligence & Dashboards** (Power BI)
+- 📈 **Análise de Dados e KPIs**
+- 🧱 **Modelagem conceitual e estruturação de dados**
+- 🔁 **Automação e tratamento de dados** (Python / Excel)
+- 🧼 **Data Cleaning e preparação de dados (ETL)**
 - 📦 **Indicadores logísticos e operacionais**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**BI & Visualização:** Power BI, Power Query, (DAX se aplicável)  
-**Dados:** SQL, ETL  
+**BI & Visualização:** Power BI, Power Query  
+**Dados:** SQL (consultas e estruturação), ETL  
 **Linguagens:** Python  
 **Ferramentas:** Excel Avançado, Git/GitHub  
+**Conceitos:** Modelagem de Dados, Análise de Requisitos, KPIs  
 
 ---
 
 ## ⭐ Projetos em destaque
 
-### 💰 app_money — Controle e simulação de investimentos (Excel)
-Planilha para acompanhar aportes, calcular rentabilidade e visualizar evolução dos ganhos.  
-🔗 Repositório: https://github.com/Ro-Oliveira89/app_money
+### 🛠️ modelo-conceitual-oficina-mecanica — Modelagem de Dados
+Projeto educacional de **modelagem conceitual de banco de dados** para um sistema de controle e gerenciamento de **ordens de serviço em uma oficina mecânica**.  
+Inclui análise de requisitos, identificação de entidades, relacionamentos e regras de negócio, com documentação completa em README.
+
+🔧 Conceitos aplicados: Modelagem ER, Análise de Negócio, Banco de Dados  
+🔗 Repositório: https://github.com/Ro-Oliveira89/modelo-conceitual-oficina-mecanica
 
 ---
 
 ### 🎮 xbox-gamepass-dashboard-annual — Dashboard analítico (BI)
-Dashboard para análise e visualização de dados com foco em métricas e KPIs.  
+Dashboard desenvolvido em Power BI para análise e visualização de dados com foco em métricas e KPIs.
+
 🔗 Repositório: https://github.com/Ro-Oliveira89/xbox-gamepass-dashboard-annual.git
 
 ---
 
+### 💰 app_money — Controle e simulação de investimentos (Excel)
+Planilha para acompanhar aportes, calcular rentabilidade e visualizar evolução dos ganhos, reforçando lógica analítica e organização de dados.
+
+🔗 Repositório: https://github.com/Ro-Oliveira89/app_money
+
+---
+
 ### 🧾 excel-ir-organizer — Organizador de informações para IR (Excel)
-Ferramenta em Excel para centralizar e organizar informações essenciais do IRPF.  
+Ferramenta em Excel para centralizar e organizar informações essenciais do IRPF, com foco em automação e clareza.
+
 🔗 Repositório: https://github.com/Ro-Oliveira89/excel-ir-organizer
 
 ---
 
 ## 💼 Experiência (resumo)
 
-
 **BESTLOG — Analista de Logística (2025–2026)**  
 - Estruturação e análise de dados operacionais  
-- Monitoramento de KPIs (coletas, entregas, embarques)  
+- Monitoramento de KPIs (coletas, entregas e embarques)  
 - Automação de processos e melhoria contínua  
 
 **GRUPO KALLAS — Assistente Administrativo (2024)**  
-- Indicadores, controle de planilhas e relatórios gerenciais  
-- Automação de rotinas e apoio estratégico à diretoria  
+- Análise de indicadores e elaboração de relatórios gerenciais  
+- Automação de rotinas e apoio à tomada de decisão  
 
 **LOJA VIRTUAL PETER PAIVA — Auxiliar de Logística Pleno (2020–2024)**  
 - Atuação em e‑commerce com forte uso de dados operacionais  
-- Monitoramento de estoque e análise de demanda  
-- Controle de inventário e indicadores logísticos  
-- Relatórios operacionais para suporte à gestão  
-- Atendimento focado na experiência do cliente
-  
+- Monitoramento de estoque, inventário e demanda  
+- Elaboração de relatórios e indicadores de desempenho  
 
 ---
 
@@ -95,11 +107,9 @@ Ferramenta em Excel para centralizar e organizar informações essenciais do IRP
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
 
 ![Streak](https://streak-stats.demolab.com?user=Ro-Oliveira89&theme=blueberry&hide_border=true)
 
@@ -109,7 +119,7 @@ Ferramenta em Excel para centralizar e organizar informações essenciais do IRP
 
 ## 📌 Objetivo
 
-Busco oportunidades para gerar impacto com **dados, BI e automação**, contribuindo com análises orientadas a resultado, eficiência operacional e decisões estratégicas.
+Atuar como **Data Analyst Jr / BI Analyst**, contribuindo com análises orientadas a dados, eficiência operacional, automação e apoio à tomada de decisão estratégica.
 
 <p align="center">
   <i>Obrigado por visitar meu perfil! ✨</i>
