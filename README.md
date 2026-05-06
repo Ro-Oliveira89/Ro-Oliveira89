@@ -23,7 +23,7 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós‑graduação em Inteligência Artificial e Ciência de Dados**. Atuo com **Análise de Dados e Business Intelligence**, focado em transformar dados operacionais em **insights acionáveis para tomada de decisão**.
 
-Possuo experiência prática com **Power BI, SQL e Python**, trabalhando com **KPIs, dashboards gerenciais, automação de rotinas e estruturação de dados para análise**. Tenho forte vivência em **logística e operações**, o que me permite conectar dados ao contexto real do negócio.
+Estudo e aplico conceitos de Power BI, SQL e Python em projetos educacionais**, trabalhando com **KPIs, dashboards gerenciais, automação de rotinas e estruturação de dados para análise**. Tenho forte vivência em **logística e operações**, o que me permite conectar dados ao contexto real do negócio.
 
 Busco oportunidades como **Data Analyst Jr / BI Analyst**, onde possa aplicar fundamentos de dados, evoluir tecnicamente e gerar impacto por meio de decisões orientadas por dados.
 
